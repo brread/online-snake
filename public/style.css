@@ -1,0 +1,12 @@
+#chat-menu {
+  width: 300px;
+  height: 150px;
+  overflow: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  outline: 1px solid black;
+}
+
+#send-message {
+  width: 300px;
+}
